@@ -14,7 +14,7 @@ pytest tests
 ```
 Executing from within Python on a sample string `"THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG"`:
 ```bash
-./run.py
+python3 run.py
 ```
 Executing stream-sampler for values piped from a file:
 ```bash
